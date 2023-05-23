@@ -1,7 +1,4 @@
-//you might notice a lot of magic numbers floating around in this code, but if
-//you aren't retarded, you'll also notice that those magic numbers are rather
-//clear - most of them are simply offsets. some from the end of the screen, some
-//from fixedpoint, but there were too many to get rid of them all... obviously,
+
 //some are just there to make sure the proper number of bytes is copied!
 //remember the proverb: the magicality of numbers is in the eye of the beholder.
 //a keen observer can make sense of any number, so don't be retarded.
